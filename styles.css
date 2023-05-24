@@ -65,18 +65,18 @@ body {
 }
 @keyframes shake {
   0% {
-    trnasform: translateX(0)
+    transform: translateX(0);
   }
   25% {
-    trnasform: translateX(-2px)
+    transform: translateX(-2px);
   }
   50% {
-    trnasform: translateX(0)
+    transform: translateX(0);
   }
   75% {
-    trnasform: translateX(2px)
+    transform: translateX(2px);
   }
   100% {
-    trnasform: translateX(0)
+    transform: translateX(0);
   }
 }
