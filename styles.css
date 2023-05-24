@@ -16,7 +16,7 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background: #fff;
+  background: teal; /* Changed background color to teal */
   border-radius: 10px;
 }
 
@@ -24,12 +24,13 @@ body {
   font-weight: 600;
   font-size: 15px;
   margin-bottom: 8px;
+  color: white; /* Changed text color to white */
 }
 
 .container input {
   width: 100%;
   height: 50px;
-  border: 1px solid #493eea;
+  border: 1px solid teal; /* Changed border color to teal */
   outline: 0;
   padding: 10px;
   margin: 10px 0 20px;
@@ -39,7 +40,7 @@ body {
 .container button {
   width: 100%;
   height: 50px;
-  background: #493eea;
+  background: #005559; /* Changed the background color to a deep teal */
   color: #fff;
   border: 0;
   outline: 0;
